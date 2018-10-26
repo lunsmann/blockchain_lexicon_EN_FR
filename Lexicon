@@ -1,0 +1,71 @@
+Word: Blockchain: Chaine de blocs
+
+Altcoin : abréviation pour “Alternative Coin”. Un altcoin est une cryptomonnaie autre que le bitcoin : ether, litecoin, etc. Il en existe plusieurs centaines.
+
+Application décentralisée : application qui fonctionne sur un réseau décentralisé, par opposition aux applications classiques qui dépendent de serveurs centralisés. Elle a comme support un ou plusieurs smart contracts déployés sur une blockchain. La partie front-end (interface utilisateur), elle, peut être développée comme sur les applications classiques. Dans l’écosystème de la blockchain Ethereum, les applications décentralisées sont appelées dApps. Il en existe plus de 1000 à l’heure actuelle (voir www.stateofthedapps.com).
+
+Bitcoin : système de transfert et de vérification de propriété reposant sur un réseau de pair à pair sans aucune autorité centrale, conçu en 2009 par un développeur utilisant le pseudonyme Satoshi Nakamoto. Son unité de compte est la monnaie électronique bitcoin (sans majuscule). Pour plus d’informations : https://bitcoin.fr/Qu-est-ce-que-Bitcoin/
+
+Blockchain : technologie de stockage et de transmission d’informations à coût minime, sécurisée, transparente, et fonctionnant sans organe central de contrôle. Par extension, une blockchain (littéralement une « chaîne de blocs ») désigne une base de données sécurisée et décentralisée, répliquée sur un très grand nombre de noeuds, et contenant un ensemble de transactions dont chacun peut vérifier la validité. Une blockchain peut donc être assimilée à un grand livre comptable transparent, pseudonyme et infalsifiable.
+
+Blockchain publique : blockchain ouverte à tout utilisateur que ce soit en termes de lecture (libre accès au registre), d’usage (envoi de transactions en pair-à-pair) et de participation au bon fonctionnement du réseau (validation des transactions ; ainsi, chacun peut devenir mineur sur une blockchain publique). En tant que substitut aux réseaux centralisés, les blockchains publiques sont sécurisées par la cryptoéconomie : la combinaison d’incitations économiques et de mécanismes de vérification cryptographiques. Bitcoin et Ethereum constituent les deux blockchains publiques les plus connues à ce jour.
+
+Blockchain privée : blockchain où certains droits sont réservés à certains utilisateurs, en particulier le droit de validation des transactions. Une blockchain privée ne nécessite pas l’utilisation de cryptomonnaies. Hérésie pour certains (qui considèrent qu’une blockchain est par essence publique), système jugé rassurant par d’autres (grandes entreprises, en particulier du secteur bancaire, et institutions publiques), la blockchain privée présente plusieurs atouts par rapport aux bases de données traditionnelles, sans pour autant constituer une innovation de rupture comme le sont les blockchains publiques (associées par nature aux cryptoactifs). Pour plus d’informations, lire : Blockchain privée vs publique.
+
+Clé privée : clé permettant à l’utilisateur d’une blockchain d’initier une transaction en signant cryptographiquement son message.
+
+Clé publique : clé servant d’adresse sur une blockchain. Connue de tous, elle permet à un émetteur de désigner un destinataire.
+
+Cryptoactif : ensemble des actifs numériques émis et échangeables sur une blockchain (cryptomonnaies et tokens).
+
+Cryptomonnaie : voir Cybermonnaie
+
+Cybermonnaie: monnaie électronique, échangeable en pair-à-pair (c’est-à-dire sans intermédiaire), se basant sur des principes cryptographiques et des mécanismes d’incitation économique pour la validation des transactions et la génération de la monnaie elle-même.
+
+dApps : applications décentralisées sur Ethereum.
+
+Ether : cryptomonnaie d’Ethereum, considérée non comme une monnaie mais comme un ‘carburant’ pour faire fonctionner les smart contracts sur cette blockchain.
+
+Ethereum : plateforme décentralisée, fondée sur la blockchain éponyme, qui vise l’avènement d’un web décentralisé. La blockchain d’Ethereum fonctionne avec la cryptomonnaie ether. Contrairement à la blockchain du bitcoin, focalisée sur l’aspect monétaire, la blockchain d’Ethereum a vocation à accueillir des programmes très divers,  appelées dApps, qui fonctionnent avec des smart contracts. On parle d’écosystème Ethereum pour désigner l’ensemble des acteurs qui travaillent sur cette plateforme. Pour plus d’informations, lire : Comprendre Ethereum.
+
+Exchanges : voir “plateformes d’échange”.
+
+Fiat money : monnaie “classique”, dont la valeur est donnée par la loi ou la régulation gouvernementale  (euro, dollar…).
+
+ICO (Initial Coin Offering) : méthode de levée de fonds fonctionnant via l’émission d’actifs numériques, appelés tokens, échangeables contre des cryptomonnaies durant la phase de démarrage d’un projet. Pour plus d’explications, lire : Comprendre les ICO
+
+Microtransaction : transaction de quelques centimes. Dans un circuit “classique”, via une banque par exemple, les microtransactions sont coûteuses à réaliser (les frais sont en effet supérieurs au montant des transactions). La blockchain est capable d’apporter une solution à ce problème.
+
+Minage : utilisation de la puissance de calcul informatique afin de traiter des transactions, sécuriser le réseau et permettre à tous les utilisateurs du système de rester synchronisés.
+
+Mineur : personnes (particuliers ou sociétés) qui connectent sur le réseau une ou plusieurs machines équipées pour effectuer du minage. Chaque mineur est rémunéré  au prorata de la puissance de calcul qu’il apporte au réseau.
+
+NEO : blockchain portée par une équipe coeur chinoise et qui vise à développer la tokenisation d’actifs traditionnels, dans le respect des législations en vigueur (en particulier en Chine). Elle est surnommée le ‘Ethereum chinois’ en raison de certaines similarités avec Ethereum.
+
+Noeud : ordinateur relié au réseau blockchain et utilisant un programme relayant les transactions. Les noeuds conservent une copie du registre blockchain et sont répartis partout dans le monde.
+
+Plateformes d’échange (ou exchanges) : plateformes sur lesquelles les internautes peuvent acheter et vendre leurs cryptomonnaies et leurs tokens, et suivre l’évolution des cours en temps réel. Sur certaines d’entre elles, il est possible d’acheter des cryptomonnaies à partir de monnaies fiat (euro, dollar…). Le paradoxe de ces plateformes (sites internet, parfois aussi app mobile) est qu’elles réintroduisent de la centralisation, et donc du risque, dans le monde décentralisé de la blockchain. Des hacks d’exchange surviennent périodiquement, conduisant à des vols de cryptomonnaies. Des plateformes d’échange décentralisées (ex : EtherDelta) et des protocoles d’échange décentralisés (ex : 0x, Kyber Network) émergent et sont appelés à se développer fortement à l’avenir.
+
+Proof of work : “preuve de travail” ou “preuve de calcul”. Méthode utilisée pour atteindre le consensus distribué dans un grand nombre de blockchains publiques, Bitcoin en tête. Concrètement, il s’agit du traitement cryptographique permettant la validation des blocs de transactions. Effectuer ce traitement requiert du temps de calcul : en général, un seul ordinateur du réseau y parvient en environ dix minutes. La difficulté est régulièrement adaptée pour maintenir cet intervalle.
+
+Proof of stake : autre méthode pour atteindre le consensus distribué dans un réseau blockchain. A l’inverse du Proof of work, le Proof of stake ne demande pas aux utilisateurs d’utiliser leur puissance de calcul, mais de prouver la propriété d’un certain montant de crypto-monnaie. Ethereum vise le passage au Proof of stake à moyen terme.
+
+Ripple : système de paiement soutenu par plusieurs grandes banques visant à permettre des “transactions financières mondiales sécurisées, instantanées et presque gratuites, de toute taille”. A noter que Ripple est une blockchain privée (de consortium), particulièrement centralisée.
+
+Satoshi Nakamoto : pseudonyme de l’inventeur du bitcoin, dont la véritable identité est encore inconnue malgré de nombreuses spéculations.
+
+Scalabilité : passage à l’échelle. C’est le plus grand défi aujourd’hui des blockchains. L’une des questions majeures est : comment augmenter le nombre de transactions réalisées par seconde, sans compromettre la décentralisation et la sécurité ? Des solutions techniques sont en cours de conception ou d’implémentation sur les grands protocoles : la solution de state channels off-chain (Lightning Network sur Bitcoin, Raiden Network sur Ethereum), le sharding, Plasma pour les smart contracts sur Ethereum, etc.
+
+Sidechain : blockchain secondaire à une blockchain principale, mais qui y est rattachée afin de pouvoir en connaitre toutes les informations. Les sidechains permettent d’accroitre le volume d’informations pouvant être traitées au sein d’une blockchain (volume normalement limité), tout en restant sur une même blockchain principale.
+
+Solidity : langage de programmation utilisé pour développer des smart contracts, en particulier sur Ethereum.
+
+Smart contract : programme autonome qui, une fois démarré, exécute automatiquement des conditions inscrites en amont dans la blockchain, sans nécessiter d’intervention humaine. Il fonctionne comme toute instruction conditionnelle de type « if – then » (si telle condition est vérifiée, alors telle conséquence s’exécute). Pour déclencher son exécution, un smart contract se connecte à une base de données jugée fiable, via l’intermédiaire d’un oracle (un service qui fait le lien entre le smart contract et le monde réel).
+
+Token : actif numérique personnalisé par son auteur, émis et échangeable sur une blockchain, et possédant les caractéristiques d’une cryptomonnaie : infalsifiabilité, unicité, enregistrement des échanges dans un registre immuable, sécurité des échanges, etc. En particulier, un token est transférable (et non duplicable) entre deux parties sur Internet, sans nécessiter l’accord d’un tiers. Pour plus d’informations, lire : Comprendre les tokens.
+
+Tokenisation : inscription d’un actif (action, instrument financier, etc.) sur un token afin d’en permettre la gestion et l’échange en pair-à-pair, instantané, et sécurisé sur une infrastructure blockchain.
+
+Vitalik Buterin : fondateur d’Ethereum. Il est l’une des grandes figures du monde blockchain.
+
+White paper : document qui présente les caractéristiques d’un projet blockchain. Il est en particulier question de white paper dans le cadre d’une ICO. Il s’agit alors de présenter le projet, le rôle du token, le nombre de tokens émis, l’équipe, la roadmap, la répartition prévue de l’utilisation des fonds qui seront levés, entre autres informations (en savoir plus).
